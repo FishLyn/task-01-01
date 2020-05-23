@@ -376,7 +376,7 @@
 
 10. 请简述 TypeScript 与 JavaScript 之间的关系?
 
-    答：TypeScript 是 JavaScript 的超集，是对 JavaScript 的一个补充，TypeScript 不仅包含了 Javascript 原有的特性，还增加了强大的类型系统和对 EMCAScript 新特性的支持，最终 TypeScript 还是会被编译成 JavaScript 在浏览器或者node下运行
+    答：TypeScript 是 JavaScript 的超集，是对 JavaScript 的一个补充，TypeScript 不仅包含了 Javascript 原有的特性，还增加了强大的类型系统和对 ECMAScript 新特性的支持，最终 TypeScript 还是会被编译成 JavaScript 在浏览器或者node下运行
 
 
 
